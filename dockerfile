@@ -2,7 +2,7 @@
 FROM  nginx:latest
 
 # author
-MAINTAINER  ichikawa
+MAINTAINER  nagaoka
 
 ADD default.conf /etc/nginx/conf.d
 
